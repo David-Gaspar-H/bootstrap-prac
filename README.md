@@ -1,2 +1,2 @@
 # bootstrap-prac
-Bootstrap practice
+Bootstrap practice- Turned into personal website
